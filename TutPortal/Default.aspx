@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>TEST ENVIRONMENT</h1>
+        <h1>Staging and Production ENVIRONMENT</h1>
     </div>
 
     <div class="row">
